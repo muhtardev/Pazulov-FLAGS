@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#btn{
+    margin: 60px 1500px;
+    padding: 25px 50px;
+    border-radius: 50px;
+    border: none;
+    background: blue
+}
+#flag{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2pc;
+}
+#btn1,
+#btn2,
+#btn3 {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background: green;
+    color: white;
+    cursor: pointer;
+}   
